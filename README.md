@@ -22,3 +22,6 @@ Curso voltado a comandos de gitHub
 # Ligando o repositorio Local com o repositorio Remoto
   - git remote add origin URL
   - git push --set-upstream origin master / git push --set-upstream origin master -> Força o update
+
+# Clonando um repositorio 
+  - git clone URL
