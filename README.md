@@ -26,3 +26,6 @@ Curso voltado a comandos de gitHub
 
 # Clonando um repositorio 
   - git clone URL
+
+# Atualizando o repositorio local com o repositorio remoto
+  - git pull
