@@ -20,6 +20,7 @@ Curso voltado a comandos de gitHub
   - git checkout -- NOME DO ARQUIVO
 
 # Ligando o repositorio Local com o repositorio Remoto
+  - git remote -v -> verifca se você ja tem um repositorio gravado na pasta.
   - git remote add origin URL
   - git push --set-upstream origin master / git push --set-upstream origin master -> Força o update
 
