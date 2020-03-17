@@ -29,3 +29,6 @@ Curso voltado a comandos de gitHub
 
 # Atualizando o repositorio local com o repositorio remoto
   - git pull
+  
+# Como verificar os log's dos commit
+  - git log
