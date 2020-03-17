@@ -32,3 +32,7 @@ Curso voltado a comandos de gitHub
   
 # Como verificar os log's dos commit
   - git log
+
+# Como criar suas Tag's
+  - git tag NOME/NUMERO
+  - git push --tags
