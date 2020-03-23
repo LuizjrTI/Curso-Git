@@ -43,3 +43,7 @@ Curso voltado a comandos de gitHub
   - Deletar uma branch -> git branch -D feature/NOME_DA_BRANCH
   - mudar de branch -> git checkout feature/NOME_DA_BRANCH
 
+# Merge
+  - Em primeiro ligar você vai entrar na branch em que deseja realizar o merge ou a no meu caso especifico a branch master
+  - git merge feature/NOME_DA_BRANCH
+
