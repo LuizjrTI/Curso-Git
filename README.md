@@ -23,6 +23,7 @@ Curso voltado a comandos de gitHub
   - git remote -v -> verifca se você ja tem um repositorio gravado na pasta.
   - git remote add origin URL
   - git push --set-upstream origin master / git push --set-upstream origin master -> Força o update
+  - git push origin master --force
 
 # Clonando um repositorio 
   - git clone URL
