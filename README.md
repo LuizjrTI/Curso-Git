@@ -36,3 +36,7 @@ Curso voltado a comandos de gitHub
 # Como criar suas Tag's
   - git tag NOME/NUMERO
   - git push --tags
+
+# Branch
+  - criando uma branch -> git branch feature/NOME_DA_BRANCH
+  - verificando em branch você está -> git branch
