@@ -46,4 +46,5 @@ Curso voltado a comandos de gitHub
 # Merge
   - Em primeiro ligar você vai entrar na branch em que deseja realizar o merge ou a no meu caso especifico a branch master
   - git merge feature/NOME_DA_BRANCH
+  -
 
