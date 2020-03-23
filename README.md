@@ -40,3 +40,5 @@ Curso voltado a comandos de gitHub
 # Branch
   - criando uma branch -> git branch feature/NOME_DA_BRANCH
   - verificando em branch você está -> git branch
+  - Deletar uma branch -> git branch -D feature/NOME_DA_BRANCH
+
